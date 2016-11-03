@@ -1,0 +1,22 @@
+// Place all the styles related to the Tweets controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.new{
+  text-align: center;
+}
+.confirm{
+  text-align: center;
+}
+
+#tweet_text{background:#fff;border-radius:4px}
+.tweets{background:#fff;padding:30px;text-align:left;word-wrap:break-word}
+
+.edit{
+  text-align: center;
+}
+
+
+.tweets{
+border-bottom:1px solid #ccc;background:#fff;padding:30px;text-align:left;word-wrap:break-word
+}
